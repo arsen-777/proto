@@ -45,13 +45,13 @@ const Pagination = {
 
 let last = Pagination.init(alphabetArray, 4);
 console.log(Pagination.pages);
-console.log(Pagination.getPageItems());
+// console.log(Pagination.getPageItems());
+// console.log(Pagination.nextPage());
+// console.log(Pagination.getPageItems());
+// console.log(Pagination.nextPage());
 console.log(Pagination.nextPage());
 console.log(Pagination.getPageItems());
-console.log(Pagination.nextPage());
-console.log(Pagination.nextPage());
-console.log(Pagination.getPageItems());
-console.log(Pagination.goToPage(3));
-console.log(Pagination.prevPage());
-console.log(Pagination.firstPage());
-console.log(Pagination.lastPage());
+// console.log(Pagination.goToPage(3));
+// console.log(Pagination.prevPage());
+// console.log(Pagination.firstPage());
+// console.log(Pagination.lastPage());
